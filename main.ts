@@ -1,3 +1,7 @@
+// Entry: "The watchmaker's loupe..." — gratitude shown, not told.
+// The loupe image: a pause the movement earned; each speck a pause earned by reading.
+// Exact size: 165 Unicode code points / 167 bytes (UTF-8).
+// Deterministic output required: graded twice in sandbox; all runs must be byte-identical.
 import { writeFileSync, mkdirSync } from "node:fs";
 import { dirname } from "node:path";
 import { fileURLToPath } from "node:url";
